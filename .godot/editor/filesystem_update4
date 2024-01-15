@@ -1,0 +1,17 @@
+res://main.tscn
+res://player.tscn
+res://cherry.tscn
+res://cherry.gd
+res://game_manager.gd
+res://checkpoint.tscn
+res://checkpoint.gd
+res://scenes/main.tscn
+res://scenes/player.tscn
+res://scenes/cherry.tscn
+res://scenes/checkpoint.tscn
+res://scripts/game_manager.gd
+res://scenes/level1.tscn
+res://scenes/level2.tscn
+res://scenes/main_menu.tscn
+res://scripts/main_menu.gd
+res://scripts/checkpoint.gd
